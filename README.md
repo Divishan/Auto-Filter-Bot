@@ -7,13 +7,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Divishan/Auto-Filter-Bot/stargazers">
+  <a href="https://github.com/divishan016/Auto-Filter-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/Divishan/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/divishan016/Auto-Filter-Bot/fork">
+    <img src="https://img.shields.io/github/forks/divishan016/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
